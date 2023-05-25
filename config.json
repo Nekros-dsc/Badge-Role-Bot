@@ -1,0 +1,8 @@
+{
+    "prefix": "r!",
+    "client": {
+        "TOKEN": "Put-Token-Here", 
+        "ID": "Bot-Id" 
+    }
+
+}
