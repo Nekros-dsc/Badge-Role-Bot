@@ -1,0 +1,17 @@
+{
+  "name": "badge-rolebot",
+  "version": "1.0.0",
+  "description": "A Badge Role Bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nekrxs.",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.16.0",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1"
+  }
+}
